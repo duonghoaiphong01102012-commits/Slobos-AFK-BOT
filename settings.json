@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VanilaSigma.aternos.me",
+    "ip": "blackfish.aternos.host",
     "port": 40148,
     "version": "1.21.1"
   },
